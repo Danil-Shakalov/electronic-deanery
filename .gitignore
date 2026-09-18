@@ -1,0 +1,17 @@
+*.o
+*.obj
+*.exe
+*.out
+*.app
+app
+a.out
+*.class
+*.jar
+*.war
+out/
+build/
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
